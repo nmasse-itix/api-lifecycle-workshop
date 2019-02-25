@@ -1,0 +1,24 @@
+baseURL = "/"
+languageCode = "en-us"
+theme = "learn"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[params]
+showVisitedLinks = true
+disableBreadcrumb = false
+disableNextPrev = false
+themeVariant = "red"
+openshift_console_url="https://openshift.itix.fr:8443"
+microcks_url="https://microcks.app.itix.fr"
+apicurio_studio_url="https://studio.apicur.io"
+jenkins_url="https://jenkins-microcks.app.itix.fr"
+ansible_tower_url="https://ansible.app.itix.fr"
+3scale_admin_portal_url="https://rhfrance-userXY-admin.3scale.net"
+3scale_developer_portal_url="https://rhfrance-userXY.3scale.net"
+github_repository_url="https://github.com/nmasse-itix/api-lifecycle-workshop"
+api_backend="backend-springboot"
+
+[blackfriday]
+hrefTargetBlank = true
