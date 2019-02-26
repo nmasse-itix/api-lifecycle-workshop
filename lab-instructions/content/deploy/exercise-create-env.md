@@ -1,5 +1,5 @@
 ---
-title: "Exercise: Create two environments"
+title: "Exercise: Create environments"
 weight: 1
 ---
 

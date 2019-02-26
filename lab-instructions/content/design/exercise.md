@@ -9,7 +9,7 @@ The ACME brewery is about to adopt APIs **in order to expose their catalog and i
 
 - Open the [APICurio Studio]({{< param apicurio_studio_url >}}/apis/import)
 - Register if you are a newcomer or login if you already have an account
-- Copy [this URL](beer-catalog-1.0.json) and import it in APIcurio
+- Copy [this URL](beer-catalog-1.0.yaml) and import it in APIcurio
 - Study the existing design
 - Invite one of your colleague
 - **Together**, complete it with a method to place an order

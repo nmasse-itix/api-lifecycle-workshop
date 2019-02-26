@@ -10,6 +10,7 @@ showVisitedLinks = true
 disableBreadcrumb = false
 disableNextPrev = false
 themeVariant = "red"
+editURL = "https://github.com/nmasse-itix/api-lifecycle-workshop/edit/master/lab-instructions/content/"
 openshift_console_url="https://openshift.itix.fr:8443"
 microcks_url="https://microcks.app.itix.fr"
 apicurio_studio_url="https://studio.apicur.io"
