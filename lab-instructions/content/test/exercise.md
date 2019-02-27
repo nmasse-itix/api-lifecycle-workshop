@@ -7,7 +7,7 @@ weight: 1
 
 The ACME Brewery is about to start implementing the ACME Brewery API but before jumping into the code, we will have to craft an integration test suite. This way, we can refine the business expectations and validate that our implementation, once developed, conforms to our specifications.
 
-- Load [this collection](postman_collection.json) in Postman, if not already done
+- Load [this collection](../mock/postman_collection.json) in Postman, if not already done
 - Examine the provided test cases
 - Try to run a test in [Microcks]({{< param microcks_url >}}/#/services) against the generated mock
 
