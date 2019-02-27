@@ -10,7 +10,7 @@ The ACME Brewery API is implemented and conform to our specification. We can now
 - Open the [OpenShift Web Console]({{< param openshift_console_url >}}/console/catalog)
 - In the top-left dropdown box, select the `Beer Catalog (BUILD)` project
 - In the top-right corner, select **Add to project**, then **Select from project**.
-- Select the `Beer Catalog environment` template and click **Next**
+- Select the `Beer Catalog pipeline` template and click **Next**
 - On the **Information** screen, just click **Next**
 - On the **Configuration** screen, fill-in your username
 - **Do not change the other fields**
