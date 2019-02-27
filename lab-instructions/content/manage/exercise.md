@@ -10,7 +10,7 @@ Since the beginning of this workshop, ACME has released two versions of its API.
 - Open your **3scale Admin Portal** by copying this URL in your web browser and changing the `userXY` by your actual username.
 
 ```raw
-{{< param 3scale_admin_portal_url >}}/login
+{{< param 3scale_admin_portal_url >}}/p/login
 ```
 
 - Review the existing services and explain **how APIs are versioned**
